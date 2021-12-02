@@ -1,5 +1,7 @@
 # E-CommerceAppp
-Mini Java Web Application for E-Commerce (JSP + MySql)
+Mini Java Web Application for E-Commerce.
+
+Technologies: Servlets + JSP + MySql
 
 Use **database/database.sql** to create tables.
 
